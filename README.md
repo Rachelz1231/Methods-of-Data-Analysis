@@ -1,4 +1,4 @@
-# STA303: Methods of Data Analysis
+# Methods of Data Analysis
 This repository is a collection of projects and study notes completed in STA303: Methods of Data Analysis.
 
 * Two study guides on Linear Mixed Model, and Generalized Linear Models respectively
